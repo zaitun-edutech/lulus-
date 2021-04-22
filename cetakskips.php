@@ -240,7 +240,7 @@ echo '<tr>
       Bukateja, 2 Mei 2020<br>
 	  KEPALA SEKOLAH<br>
       <img src="images/tanda.png" alt="" width="200"><br>
-      <b>Heriyanto, S.Pd, M.P.d</><br>
+      <b>Herianto, S.Pd, M.P.d</><br>
 	  NIP. 19681221 199301 1 002
     </div>
   </tr>';

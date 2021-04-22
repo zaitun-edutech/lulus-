@@ -54,7 +54,7 @@ else{
             <li>
               <a href="index.php?page=logout">Logout</a>
             </li>
-            <li><a href="https://matsagiri.com/" target="_blank">Matsagiri</a></li>            
+            <li><a href="https://zaitun-edutech.github.io/" target="_blank">zaitun-edutech</a></li>            
           </ul>
         </div>
   </div>
