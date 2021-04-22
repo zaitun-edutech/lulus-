@@ -3,7 +3,7 @@
 <title> Halaman Pencarian </title>
 </head>
 <body>
-<h3 align="center">Selamat datang di Aplikasi Sistem Informasi Kelulusan SMA NEGERI 1 BUKATEJA</h3>
+<h3 align="center">Selamat datang di Aplikasi Sistem Informasi Kelulusan SMA NEGERI 9 LUWU UTARA</h3>
 <div class="well">
 <div align="right"><SCRIPT language=JavaScript src="js/almanak.js"></SCRIPT> 
           <span class="style1">I</span> <SCRIPT language=JavaScript>var d = new Date();

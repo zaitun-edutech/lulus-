@@ -33,7 +33,7 @@
             </li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="https://smabukateja.sch.id/" target="_blank">SMA NEGERI 1 BUKATEJA</a></li>
+            <li><a href="https://sman9lutra.sch.id/" target="_blank">SMA NEGERI 9 LUWU UTARA</a></li>
             </ul>
         </div>
   </div>

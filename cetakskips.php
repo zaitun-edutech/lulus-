@@ -59,7 +59,7 @@ while($r = mysql_fetch_array($q))
 		<h4 align="center" style="margin:0px;font-size:22px;"><b><u>SURAT KETERANGAN LULUS</u></b></h4>
 		<h4 align="center" style="margin:0px;font-size:17px;"><b>NOMOR : XXX/XXX/2020</b></h4>
 		<br>
-		<h4 align="center" style="margin:0px;font-size:19px;"><b>SMA NEGERI 1 BUKATEJA</b></h4>
+		<h4 align="center" style="margin:0px;font-size:19px;"><b>SMA NEGERI 9 LUWU UTARA</b></h4>
 		<h4 align="center" style="margin:0px;font-size:17px;"><b>PEMINATAN : IPS (Ilmu Pengetahuan Sosial)</b></h4>
 		<h4 align="center" style="margin:0px;font-size:17px;"><b>TAHUN PELAJARAN 2019/2020</b></h4>
         
@@ -70,7 +70,7 @@ while($r = mysql_fetch_array($q))
   </tr>';
   echo '<tr>
     <table width="80%" border="0" align="center">
-	<td align="justify" width="7%">Yang bertanda  tangan di bawah ini, Kepala Sekolah Menengah Atas Negeri 1 Bukateja, menerangkan dengan sesungguhnya bahwa :</td><br><br>
+	<td align="justify" width="7%">Yang bertanda  tangan di bawah ini, Kepala Sekolah Menengah Atas Negeri 9 LUWU UTARA, menerangkan dengan sesungguhnya bahwa :</td><br><br>
     </tr>';
   
   echo '<tr>
@@ -106,7 +106,7 @@ while($r = mysql_fetch_array($q))
   
   echo '<tr>
     <table width="80%" border="0" align="center">
-	<td align="justify" width="7%">Yang bersangkutan dinyatakan <b>LULUS</b> berdasarkan hasil Keputusan Rapat Pleno Kelulusan Dewan Guru SMA Negeri 1 Bukateja pada hari Jumat tanggal 1 Mei 2020, dengan nilai sebagai berikut:</td><br><br>
+	<td align="justify" width="7%">Yang bersangkutan dinyatakan <b>LULUS</b> berdasarkan hasil Keputusan Rapat Pleno Kelulusan Dewan Guru SMA Negeri 9 LUWU UTARA pada hari Jumat tanggal 1 Mei 2020, dengan nilai sebagai berikut:</td><br><br>
     </tr>';
   echo '<tr>
 	<table width="200%" border="0">
@@ -240,7 +240,7 @@ echo '<tr>
       Bukateja, 2 Mei 2020<br>
 	  KEPALA SEKOLAH<br>
       <img src="images/tanda.png" alt="" width="200"><br>
-      <b>Nur Samsudin, S.Pd. Fis</><br>
+      <b>Heriyanto, S.Pd, M.P.d</><br>
 	  NIP. 19681221 199301 1 002
     </div>
   </tr>';
