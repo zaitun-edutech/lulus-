@@ -61,7 +61,7 @@ while($r = mysql_fetch_array($q))
 		<br>
 		<h4 align="center" style="margin:0px;font-size:19px;"><b>SMA NEGERI 9 LUWU UTARA</b></h4>
 		<h4 align="center" style="margin:0px;font-size:17px;"><b>PEMINATAN : IPS (Ilmu Pengetahuan Sosial)</b></h4>
-		<h4 align="center" style="margin:0px;font-size:17px;"><b>TAHUN PELAJARAN 2019/2020</b></h4>
+		<h4 align="center" style="margin:0px;font-size:17px;"><b>TAHUN PELAJARAN 2020/2021</b></h4>
         
   
     <td colspan="4"><div align="justify">
@@ -106,7 +106,7 @@ while($r = mysql_fetch_array($q))
   
   echo '<tr>
     <table width="80%" border="0" align="center">
-	<td align="justify" width="7%">Yang bersangkutan dinyatakan <b>LULUS</b> berdasarkan hasil Keputusan Rapat Pleno Kelulusan Dewan Guru SMA Negeri 9 LUWU UTARA pada hari Jumat tanggal 1 Mei 2020, dengan nilai sebagai berikut:</td><br><br>
+	<td align="justify" width="7%">Yang bersangkutan dinyatakan <b>LULUS</b> berdasarkan hasil Keputusan Rapat Pleno Kelulusan Dewan Guru SMA Negeri 9 LUWU UTARA pada hari Jumat tanggal 1 Mei 2021, dengan nilai sebagai berikut:</td><br><br>
     </tr>';
   echo '<tr>
 	<table width="200%" border="0">
