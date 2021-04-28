@@ -15,7 +15,7 @@
 <div class="navbar navbar-default navbar-fixed-top">
   <div class="container">
         <div class="navbar-header">
-		<a class="navbar-brand" href="#page-top"><img src="images/SMA.png" alt="Logo" width="50" style="position:absolute;margin-top:-15px;"> <span style="margin-left:60px;">ASIK</span> </a>
+		<a class="navbar-brand" href="#page-top"><img src="images/SMA.png" alt="" width="50" style="position:absolute;margin-top:-15px;"> <span style="margin-left:60px;">ASIK</span> </a>
             <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>

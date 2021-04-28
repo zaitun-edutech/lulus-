@@ -237,7 +237,7 @@ echo '<tr>
     
   echo '<tr>
     <div style="float:right;margin-right:100px;">
-      Bukateja, 2 Mei 2020<br>
+      Cendana Putih, 3 Mei 2021<br>
 	  KEPALA SEKOLAH<br>
       <img src="images/tanda.png" alt="" width="200"><br>
       <b>Herianto, S.Pd, M.P.d</><br>
