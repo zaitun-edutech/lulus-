@@ -181,7 +181,7 @@ echo '<tr>
 	</tr>';
 	echo '<tr>
 		<td align="center">4</td>
-		<td align="left">Muatan Lokal : Bahasa Jawa</td>
+		<td align="left">Muatan Lokal : Bahasa bugis</td>
 		<td align="center">'.$r['bjawa'].' </td>
 	</tr>';
 	
@@ -195,11 +195,7 @@ echo '<tr>
 		<td align="left">Geografi</td>
 		<td align="center">'.$r['geo'].' </td>
 	</tr>';
-	echo '<tr>
-		<td align="center">2</td>
-		<td align="left">Bahasa dan Sastra Inggris</td>
-		<td align="center">'.$r['sasing'].' </td>
-	</tr>';
+	
 	echo '<tr>
 		<td align="center">3</td>
 		<td align="left">Sejarah</td>
@@ -214,6 +210,11 @@ echo '<tr>
 		<td align="center">5</td>
 		<td align="left">Ekonomi</td>
 		<td align="center">'.$r['eko'].' </td>
+	</tr>';
+	echo '<tr>
+		<td align="center">2</td>
+		<td align="left">Biologi Lintas minat</td>
+		<td align="center">'.$r['sasing'].' </td>
 	</tr>';
 	
 	echo '<tr>
