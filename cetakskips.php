@@ -57,7 +57,7 @@ while($r = mysql_fetch_array($q))
   
   echo '<tr>
 		<h4 align="center" style="margin:0px;font-size:22px;"><b><u>SURAT KETERANGAN LULUS</u></b></h4>
-		<h4 align="center" style="margin:0px;font-size:17px;"><b>NOMOR : XXX/XXX/2020</b></h4>
+		<h4 align="center" style="margin:0px;font-size:17px;"><b>NOMOR : 421.3/044-UPT SMAN 9/LUTRA/DISDIK</b></h4>
 		<br>
 		<h4 align="center" style="margin:0px;font-size:19px;"><b>SMA NEGERI 9 LUWU UTARA</b></h4>
 		<h4 align="center" style="margin:0px;font-size:17px;"><b>PEMINATAN : IPS (Ilmu Pengetahuan Sosial)</b></h4>
@@ -106,7 +106,7 @@ while($r = mysql_fetch_array($q))
   
   echo '<tr>
     <table width="80%" border="0" align="center">
-	<td align="justify" width="7%">Yang bersangkutan dinyatakan <b>LULUS</b> berdasarkan hasil Keputusan Rapat Pleno Kelulusan Dewan Guru SMA Negeri 9 LUWU UTARA pada hari Jumat tanggal 1 Mei 2021, dengan nilai sebagai berikut:</td><br><br>
+	<td align="justify" width="7%">Yang bersangkutan dinyatakan <b>'.$r['ket'].'</b> berdasarkan hasil Keputusan Rapat Pleno Kelulusan Dewan Guru SMA Negeri 9 LUWU UTARA pada hari Senin tanggal 3 Mei 2021, dengan nilai sebagai berikut:</td><br><br>
     </tr>';
   echo '<tr>
 	<table width="200%" border="0">
@@ -242,7 +242,7 @@ echo '<tr>
 	  KEPALA SEKOLAH<br>
       <img src="images/tanda.png" alt="" width="200"><br>
       <b>Herianto, S.Pd, M.P.d</><br>
-	  NIP. 19681221 199301 1 002
+	  NIP. 19760817 200012 1 003
     </div>
   </tr>';
   echo '<tr>

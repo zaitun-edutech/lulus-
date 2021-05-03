@@ -34,7 +34,7 @@ function cekNo() {
   <div class="form-group">
       <label for="noujian" class="col-lg-2 control-label">NIS</label>
       <div class="col-lg-10">
-        <input type="text" class="form-control" name="noujian" placeholder="Contoh : 2244" size="30">
+        <input type="text" class="form-control" name="noujian" placeholder="Contoh :181111" size="30">
       </div>
   </div>
     <div class="form-group">
@@ -51,7 +51,7 @@ function cekNo() {
       <div align="center" class="alert alert-dismissable alert-danger">
 <h4>
 <script language="JavaScript">
-TargetDate = "06/14/2014 03:00 PM";
+TargetDate = "05/3/2021 05:40 PM";
 BackColor = "";
 ForeColor = "";
 CountActive = true;

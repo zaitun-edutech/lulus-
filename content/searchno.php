@@ -40,16 +40,18 @@ echo "
     <td colspan='1'><font color='#0066FF' size='5' style='text-transform: uppercase;'>".$data['ket']."</td>
   </tr>";
 echo "</table>";
+
 $pilih=$data['jurusan'];
 if($pilih=='IPA')
 {
-echo "<div align='center'><a href='cetaksk.php?noujian=".$data['noujian']."' class='btn btn-success'>Cetak Surat Keterangan Kelulusan</a></div>";
+echo "<div align='center'><a href='cetaksk.php?noujian=".$data['noujian']."' class='btn btn-success'>Cetak Surat Keterangan Ke".$data['ket']."an</a></div>";
 }
 else
 {
-echo "<div align='center'><a href='cetakskips.php?noujian=".$data['noujian']."' class='btn btn-success'>Cetak Surat Keterangan Kelulusan</a></div>";
+echo "<div align='center'><a href='cetakskips.php?noujian=".$data['noujian']."' class='btn btn-success'>Cetak Surat Keterangan Ke".$data['ket']."an</a></div>";
 }
 }
+
 ?>
 </body>
 </html>
