@@ -51,7 +51,7 @@ function cekNo() {
       <div align="center" class="alert alert-dismissable alert-danger">
 <h4>
 <script language="JavaScript">
-TargetDate = "05/3/2021 05:40 PM";
+TargetDate = "05/3/2021 05:47 PM";
 BackColor = "";
 ForeColor = "";
 CountActive = true;
